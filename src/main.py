@@ -1,9 +1,9 @@
 import streamlit as st
 import langchain_helper as lch
 
-st.title("News Research Tool")
+st.title("Articles Research Tool")
 
-st.sidebar.title("News Article URLs")
+st.sidebar.title("Article URLs")
 
 main_placeholder = st.empty()
 
